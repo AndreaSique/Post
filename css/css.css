@@ -5,12 +5,12 @@
 }
 
 .caja{
-    width: 360px;
+    width: 400px;
     height: 350px;
     background-color: #f6f5f5;
     margin: auto;
     margin-top: 100px;
-    padding: 20px;
+    padding: 25px;
     box-sizing: border-box;
     position: relative;
 }
@@ -33,8 +33,8 @@
     padding: 10px;
     margin: auto;
     background-color: #1687a7;
-    color: #d3e0ea;
-    width: 50px;
+    color:  #f6f5f5; 
+    width: 60px;
     height: 25px;
     border-radius: 3px;
     text-align: center;
@@ -42,4 +42,5 @@
     position: absolute;
     right: 20px;
     bottom: 20px;
+    font-size: 18px;
 }
